@@ -1,0 +1,23 @@
+body
+{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200530/pngtree-cute-hand-drawn-style-mathematics-education-pink-plaid-background-image_337364.jpg");
+    background-repeat:initial;
+	text-align: center;
+}
+
+#login1 , #login2
+{
+    background: rgb(206, 223, 253);
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+#logButton {
+    background:coral;
+}
+
+#heading {
+    text-decoration: solid, underline,;
+    background-color: rgb(115, 179, 181);
+}
